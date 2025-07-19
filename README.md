@@ -1,1 +1,1 @@
-# Quizie
+Quizzie is an interactive web-based quiz game designed to test users’ knowledge through a clean and engaging interface. Built using core web technologies — HTML for structure, CSS for styling, and JavaScript for interactivity — the game features multiple-choice questions, dynamic score tracking, and instant feedback. Users can play, view their scores in real-time, and enjoy a smooth user experience across devices. Quizzie showcases a strong understanding of DOM manipulation, event handling, and responsive design.
